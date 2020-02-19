@@ -1,10 +1,4 @@
-import {
-  Component,
-  AfterViewInit,
-  ViewChild,
-  ElementRef,
-  OnInit
-} from "@angular/core";
+import { Component, OnInit } from "@angular/core";
 import { fromEvent } from "rxjs";
 
 @Component({
